@@ -5,3 +5,4 @@ hugo.exe
 *.swo
 .DS_Store
 *~
+*.notes
